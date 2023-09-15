@@ -2,21 +2,8 @@
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<style>
-  body [ 
-  text-aling: center;
-  display: felx;
-  flex-direction: colum;
-  jutify-content: flex-start;
-  aling-items: centes; 
-  height: 100vh;
-  margin: 0;
-  h1 {
-  margin-top: 20px;
-  }
-  p {
-  max-width: 600px;
-  margin-bottom: 20px;
+<meta name="viewport" content="with=detent="with=device-width, inittial-scale=1
+
   }
   </style>
 </head>
